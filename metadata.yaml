@@ -1,5 +1,8 @@
 _repo: Clara-Barton-National-Historic-Site-Maryland-Handbook-110_52524
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52524-h/images/cover.jpg
 creator:
   author:
     agent_name: United States. National Park Service
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '45167'
     url: http://www.gutenberg.org/2009/agents/45167
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52524#Clara-Barton-National-Historic-Site-Maryland-Handbook-110
 gutenberg_issued: '2016-07-08'
 gutenberg_type: Text
 identifiers:
